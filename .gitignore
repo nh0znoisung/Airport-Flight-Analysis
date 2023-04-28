@@ -1,7 +1,11 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 
-usa_airport/
+usa_airport/usa_airport.csv
+usa_airport/airports.csv
+usa_airport/distances.csv
+usa_airport/info.csv
+a.txt
 
 ### Python ###
 # Byte-compiled / optimized / DLL files

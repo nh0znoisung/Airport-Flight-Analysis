@@ -1,0 +1,1 @@
+Download the dataset at link: https://www.kaggle.com/datasets/flashgordon/usa-airport-dataset and push it to this folder. Rename the file `Airports2.csv` to `usa_airport.csv`

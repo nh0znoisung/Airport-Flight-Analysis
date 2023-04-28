@@ -1,0 +1,76 @@
+Graph algorithm:
+
+
++ page rank
++ connected components
++ label propagation
++ SVD++
++ strongly connected components 
++ triangle count
+
+
+* Display the Vertices
+David is 42 
+Fran is 50 
+Ed is 55 
+Charlie is 65
+* Display the Egdes
+Bob likes Alice 
+Bob likes David 
+Charlie likes Bob 
+Charlie likes Fran 
+David likes Alice 
+Ed likes Bob 
+Ed likes Charlie 
+Ed likes Fran
+* Number of indegree and outdegree
+User 1 is called Alice and is liked by 2 people.
+User 2 is called Bob and is liked by 2 people.
+User 3 is called Charlie and is liked by 1 people.
+User 4 is called David and is liked by 1 people.
+User 5 is called Ed and is liked by 0 people.
+User 6 is called Fran and is liked by 2 people.
+* Oldest candidate
+David is the oldest follower of Alice.
+Charlie is the oldest follower of Bob.
+Ed is the oldest follower of Charlie.
+Bob is the oldest follower of David.
+Ed does not have any followers.
+Charlie is the oldest follower of Fran.
+
++ Compute the total number of flight routes
++ Compute and sort the longest flight routes
++ Display the airport with the highest degree vertex
++ List the most important airports according to PageRank
++ List the routes with the lowest flight costs
+
+//Query 1 - Find the total number of airports
+val numairports = Vertices Number
+ 
+//Query 2 - Calculate the total number of routes?
+val numroutes = Number Of Edges
+ 
+//Query 3 - Calculate those routes with distances more than 1000 miles
+graph.edges.filter { Get the edge distance )=> distance > 1000}.take(3)
+ 
+//Similarly write Scala code for the below queries
+//Query 4 - Sort and print the longest routes
+//Query 5 - Display highest degree vertices for incoming and outgoing flights of airports
+//Query 6 - Get the airport name with IDs 10397 and 12478
+//Query 7 - Find the airport with the highest incoming flights
+//Query 8 - Find the airport with the highest outgoing flights
+
+
+//Query 9 - Find the most important airports according to PageRank
+//Query 10 - Sort the airports by ranking
+//Query 11 - Display the most important airports
+//Query 12 - Find the Routes with the lowest flight costs
+//Query 13 - Find airports and their lowest flight costs
+
+//Query 14 - Display airport codes along with sorted lowest flight costs
+
+
+từ sân bay lại chính sân bay -> skip
+distance khác nhau
+
+mã airport chỉ có string 3 chữ

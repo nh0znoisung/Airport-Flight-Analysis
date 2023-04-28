@@ -1,4 +1,5 @@
 # Airport Flight Analysis
+This project aimed to EDA (Exploratory data analysis) the dataset USA Airport dataset (https://www.kaggle.com/datasets/flashgordon/usa-airport-dataset) about flights, airports, passengers,... and created the graph network using the `NetworkX` in order to explore some properties of these graphs.
 
 ## Authors 
 **Quach Minh Tuan**
